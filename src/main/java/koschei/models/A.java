@@ -1,5 +1,7 @@
 package koschei.models;
 
 public class A {
-    int g=99;
+    int ddd=99;
+    String g="dfd";
+
 }
